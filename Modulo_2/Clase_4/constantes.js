@@ -1,0 +1,2 @@
+const EDAD_MINIMA = 18;
+const EDAD_MAXIMA = 99;

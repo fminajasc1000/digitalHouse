@@ -1,0 +1,2 @@
+var edad;
+var peso;
