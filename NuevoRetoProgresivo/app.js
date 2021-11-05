@@ -15,8 +15,8 @@ app.get('/berners-lee', (req,res)=>{
     res.sendFile(path.join(__dirname,'/views/berners-lee.html'));
 });
 
-app.get('/clarle', (req,res)=>{
-    res.sendFile(path.join(__dirname,'/views/clarle.html'));
+app.get('/clarke', (req,res)=>{
+    res.sendFile(path.join(__dirname,'/views/clarke.html'));
 });
 
 app.get('/hamilton', (req,res)=>{
