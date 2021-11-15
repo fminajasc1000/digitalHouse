@@ -1,0 +1,33 @@
+.header{
+    background-color: #EAC926;
+}
+
+.cuerpos-texto{
+    font-size: 12px;
+}
+
+.titulares{
+    font-size: 24px;
+}
+
+.precios{
+    font-size: 18px;
+}
+
+.descuentos{
+    font-size: 16px;
+}
+
+.images{
+    size: 2em;
+    margin-bottom: 10px;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.list{
+    color: #000000;
+    text-decoration: none;
+}
